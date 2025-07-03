@@ -1,0 +1,46 @@
+window {
+  background-color: rgba(26, 27, 38, 0.48);
+}
+
+* {
+  font-family: "Hack";
+  color: #fff;
+}
+
+#scroll {
+  padding: 0.5rem;
+}
+
+#input {
+  background-color: rgba(26, 27, 38, 0.48);
+  color: #c0caf5;
+  outline: none;
+  box-shadow: none;
+  border: 0;
+  border-radius: 50;
+  font-size: 1.2rem;
+  padding: 0.2rem;
+}
+
+#inner-box {
+  margin: 0.5rem;
+  font-size: 1rem;
+}
+
+#img {
+  margin: 10px 10px;
+}
+
+#entry {
+  border-radius: 0.5rem;
+}
+
+#entry:selected {
+  background-color: #c0caf5;
+  outline: none;
+}
+
+#text:selected {
+  color: #1a1b26;
+}
+
